@@ -45,8 +45,6 @@
 ## Objetivos
  Costrução de um serviço de entrega por drone com o objetivo de aumentar a velocidade de entrega de compras online, como comidas, remédios, etc...
 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 
 ## Justificativa
@@ -68,30 +66,22 @@
 -Motoristas
 -Empresa responsável
 
-> Você pode utilizar como referência o seguinte documento:
-> [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
+
 
 ## Identificação das Partes Interessadas
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|        Davi de Victor         |                 |               |             |             |
-|         Rafael de Melo       |                 |               |             |             |
-|         João  Obregon    |                 |               |             |             |
-|              Matheus    |                 |               |             |             |
+|        Davi de Victor         |            Analista de Sistema do Cliente     |       Analista de Testes        |             |             |
+|         Rafael de Melo       |        Desenvolvedor         |       Desenvolvedor        |             |             |
+|         João  Obregon    |       Presidente          |        Product Owner        |             |             |
+|              Matheus    |            Funcionário da Linha de Produção      |    Analista de Requisitos           |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 
-> Opções de identificação dos stakeholders:
-> - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
-> - Posição / Cargo: Identificação do cargo da parte interessada
-> - - Ex.: Gerente de TI, Funcionário da Linha de Produção, Presidente, Analista de Sistema do Cliente, Desenvolvedor, etc.
-> - Papel no Projeto: Papel da pessoa no projeto
-> - - Ex.: Desenvolvedor, Analista de Requisitos, Analista de Testes, Product Owner, etc.
-> - E-mail: E-mail do Stakeholder (*não utilizar informações pessoais*)
-> - Telefone: Telefone do Stakeholder, incluindo WhatsApp (*não utilizar informações pessoais*)
+
 
 ## Avaliação das Partes Interessadas
 
