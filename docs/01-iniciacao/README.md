@@ -40,34 +40,18 @@
 ```
 
 ## Problema
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
+O tempo atual de entrega de produtos é impactado diretamente pelo trânsito, consequentemente aumentando a emissão de CO2. Nosso sistema promete reduzir muito a emissão de CO2 gerada pelos entregadores, reduzir o custo para o cliente, e reduzir o trãnsito gerado pelo alto nível de entregas.
 
 ## Objetivos
 Costrução de um serviço de entrega por drone com o objetivo de aumentar a velocidade de entrega de compras online, como comidas, remédios, etc...
 
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
 > **Link Útil**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 
 ## Justificativa
-Reduzir o custo de entrega, reduzir a emissao de carbono, reduzir o transito, 
+Reduzir o custo e o tempo de entrega para o cliente e para a loja, reduzir a emissao de carbono, reduzir o transito gerado pelos veículos.
 
-
-> Aqui você deve descrever os benefícios esperados pela construção do projeto.
-> As justificativas do projeto explicam as razões e a necessidade da iniciativa.
-> Elas demonstram como o projeto atende a uma demanda específica, resolve um problema ou aproveita uma oportunidade identificada.
-> Além disso, definem os benefícios esperados e o impacto previsto para a organização ou a comunidade. 
 
 ## Critérios de Sucesso
 
