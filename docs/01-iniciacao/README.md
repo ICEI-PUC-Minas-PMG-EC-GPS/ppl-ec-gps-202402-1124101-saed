@@ -1,4 +1,4 @@
-# Iniciação
+ # Iniciação
 
 > A fase de iniciação, em gerência de projetos, é o estágio que estabelece as bases para o sucesso do empreendimento. 
 > Durante essa etapa, os objetivos definidos, identificando-se suas metas, escopo, partes interessadas (*stakeholders*) e restrições. 
@@ -40,32 +40,33 @@
 ```
 
 ## Problema
-O tempo atual de entrega de produtos é impactado diretamente pelo trânsito, consequentemente aumentando a emissão de CO2. Nosso sistema promete reduzir muito a emissão de CO2 gerada pelos entregadores, reduzir o custo para o cliente, e reduzir o trãnsito gerado pelo alto nível de entregas.
+ O tempo atual de entrega de produtos é impactado diretamente pelo trânsito, consequentemente aumentando a emissão de CO2. Nosso sistema promete reduzir muito a emissão de CO2 gerada pelos entregadores, reduzir o custo para o cliente, e reduzir o trãnsito gerado pelo alto nível de entregas.
 
 ## Objetivos
-Costrução de um serviço de entrega por drone com o objetivo de aumentar a velocidade de entrega de compras online, como comidas, remédios, etc...
+ Costrução de um serviço de entrega por drone com o objetivo de aumentar a velocidade de entrega de compras online, como comidas, remédios, etc...
 
 > **Link Útil**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 
 ## Justificativa
-Reduzir o custo e o tempo de entrega para o cliente e para a loja, reduzir a emissao de carbono, reduzir o transito gerado pelos veículos.
+ Reduzir o custo e o tempo de entrega para o cliente e para a loja, reduzir a emissao de carbono, reduzir o transito gerado pelos veículos.
 
 
 ## Critérios de Sucesso
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
+ -Criar estações de entrega seguras e automáticas
+ -Reduzir o custo de entrega 
+ -Reduzir o tempo de entrega
+ -Criar um sistema capaz de calcular o custo e o tempo de entrega
+  
 
 # Partes Interessadas
-
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
+-Clientes
+-Serviços de entrega 
+-Entregadores 
+-Orgãos ambientais 
+-Motoristas
+-Empresa responsável
 
 > Você pode utilizar como referência o seguinte documento:
 > [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
@@ -74,10 +75,10 @@ Reduzir o custo e o tempo de entrega para o cliente e para a loja, reduzir a emi
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
+|        Davi de Victor         |                 |               |             |             |
+|         Rafael de Melo       |                 |               |             |             |
+|         João  Obregon    |                 |               |             |             |
+|              Matheus    |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
