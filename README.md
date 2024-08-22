@@ -1,18 +1,19 @@
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
+# SAED - Sistema Automático de Entrega de Drone
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
+Tema e Funcionalidades - Pretendemos trabalhar em cima do tema de Entregas Automatizadas por Drone, sistemas como esse já existem em alguns países, mas ainda poder ser muito otimizados.
+Nos EUA utilizam entrega por "carrinhos", oque é bem mais vulnerável e ineficiente, a distância que um drone cobre é menor, a velocidade é maior e o gasto de energia pode ser até menor se feito de forma eficiente.
+As rotas podem ser traçadas previamente utilizando um sistema de "Estações de Entrega" oque permitiria muito mais segurança e facilidade de manutenção. Sem um piloto 100% automático os drones voam com mais facilidade, sem precisar desviar de prédios ou árvores e sem precisar ir a 200M de altura, oque geraria um bom gasto de energia, além de que o sistema de estações permite que não haja a necessidade de analisar o local de pouso e nem tomar cuidado com pedestres.
+Para o futuro, poderíamos automatizar 100%, eliminando as estações e pousando direto no destino. 
+Com baterias melhores, a ineficiência de subir mais alto que os prédios e fazer uma linha reta até o destino seria cortada da equação, fazendo o serviço ser mais simples.
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
+* [Davi de Victor Gonçalves Rodrigues](https://github.com/Davi-de-Victor)
 * [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
 * [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
 * [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
 
 ## Professor responsável
 
