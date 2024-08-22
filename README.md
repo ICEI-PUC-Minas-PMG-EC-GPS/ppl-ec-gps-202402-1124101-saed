@@ -11,9 +11,9 @@ Com baterias melhores, a ineficiência de subir mais alto que os prédios e faze
 ## Alunos integrantes da equipe
 
 * [Davi de Victor Gonçalves Rodrigues](https://github.com/Davi-de-Victor)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
+* [João Obregon Gonçalves Fernandes](https://github.com/aluno2)
+* [Rafael de Melo Alves Vilaça]((https://github.com/Rafael06-vila))
+* [Matheus Souza Costa Neiva](https://github.com/aluno4)
 
 ## Professor responsável
 
