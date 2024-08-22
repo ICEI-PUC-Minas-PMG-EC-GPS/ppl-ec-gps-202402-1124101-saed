@@ -72,10 +72,10 @@
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|        Davi de Victor         |            Analista de Sistema do Cliente     |       Analista de Testes        |             |             |
-|         Rafael de Melo       |        Desenvolvedor         |       Desenvolvedor        |             |             |
-|         João  Obregon    |       Presidente          |        Product Owner        |             |             |
-|              Matheus    |            Funcionário da Linha de Produção      |    Analista de Requisitos           |             |             |
+|        Davi de Victor         |            Analista de Sistema do Cliente     |       Analista de Testes        |    email@gmail.com         |       92222-2222      |
+|         Rafael de Melo       |        Desenvolvedor         |       Desenvolvedor        |         gmail@gmail.com    |      93333-3333     |
+|         João  Obregon    |       Presidente          |        Product Owner        |      yahoo@gmail.com       |         94444-4444    |
+|              Matheus    |            Funcionário da Linha de Produção      |    Analista de Requisitos           |     outlook@gmail.com        |         95555-5555   |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
