@@ -50,7 +50,7 @@
 > Soluções para o problema devem ser descritas na seção correspondente.
 
 ## Objetivos
-Reduzir o custo de entrega, reduzir a emissao de carbono, reduzir o transito, 
+Costrução de um serviço de entrega por drone com o objetivo de aumentar a velocidade de entrega de compras online, como comidas, remédios, etc...
 
 > Aqui você deve descrever os objetivos do trabalho.
 > Apresente um Objetivo Geral, sintetizado em uma única frase.
@@ -61,8 +61,8 @@ Reduzir o custo de entrega, reduzir a emissao de carbono, reduzir o transito,
 
 
 ## Justificativa
+Reduzir o custo de entrega, reduzir a emissao de carbono, reduzir o transito, 
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Aqui você deve descrever os benefícios esperados pela construção do projeto.
 > As justificativas do projeto explicam as razões e a necessidade da iniciativa.
