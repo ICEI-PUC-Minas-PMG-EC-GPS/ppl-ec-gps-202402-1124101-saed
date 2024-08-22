@@ -87,22 +87,16 @@
 
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+|         Equipe responsável        |           Reduzir o custo e o tempo de entrega              |       alta        |           alta          |    positivo         |               |
+|         Entregadores        |            Diminuir a demanda po motoboy            |         baixa      |          média           |        negativo     |               |
+|         Anatel        |            aumento da produtividade            |          alta     |           alta          |      neutro       |               |
+|           Orgãos ambientais      |            diminuir a emissão de CO2            |      média         |            média         |      positivo       |               |
+|           Motoristas      |               dminuir o trânsito na cidade         |        baixa       |               baixa      |       positiva      |               |
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
 
-> Opções de avaliação:
-> - Expectativa: descrição da expectativa da parte interessada no projeto.
-> - - Ex.: Diminuição do tempo de realização das tarefas, aumento da produtividade, aumento da satisfação do cliente, etc.
-> - Influência: Alta, Média, Baixa
-> - Importância: Alta, Média, Baixa
-> - Apoio: Positivo, Negativo, Neutro
-> - Observações: Informações adicionais, para o cliente.
+
 
 ```diff
 + Tarefa 01
