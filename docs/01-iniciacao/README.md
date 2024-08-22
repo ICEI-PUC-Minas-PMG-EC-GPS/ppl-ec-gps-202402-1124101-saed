@@ -50,8 +50,7 @@
 > Soluções para o problema devem ser descritas na seção correspondente.
 
 ## Objetivos
-
-......  COLOQUE AQUI O SEU TEXTO ......
+Reduzir o custo de entrega, reduzir a emissao de carbono, reduzir o transito, 
 
 > Aqui você deve descrever os objetivos do trabalho.
 > Apresente um Objetivo Geral, sintetizado em uma única frase.
