@@ -125,31 +125,20 @@
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |    Sálario dos funcionários       |            |              |             |
-| Hardware                |    Drones, estações      |            |              |             |
-| Serviços de Rede        |    GPS     |            |              |             |
-| Hospedagem e Nuvem      |    Banco de dados do aplicativo     |            |              |             |
-| Software de terceiros   |    Piloto automático      |            |              |             |
-| Serviços e treinamento  |    Treinamento para suporte ao drone, manutenção da estção      |            |              |             |
+| Recursos Humanos        |    Sálario dos funcionários       |      1000      |       50       |      R$50.000,00       |
+| Hardware                |   4 Drones, 10 estações      |      comprado      |     -----       |     R$49.000,00 |
+| Serviços de Rede        |    GPS     |     integrado no drone       |       ------       |       ------      |
+| Hospedagem e Nuvem      |    Banco de dados do aplicativo     |      8760      |       R$1,85       |       R$4800,00      |
+| Software de terceiros   |    Piloto automático      |     ----       |       -----       |       R$2.700,00      |
+| Serviços e treinamento  |    Treinamento para suporte ao drone, manutenção da estção      |    100    |     40     |     R$4.000,00     |
 | **Total Geral**         |           |            |              |             |
 
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
-
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
-
-* Prazo previsto (em horas): XX horas
-* Data de início: __ / __ / _____
-* Data de término: __ / __ / _____
+* Prazo previsto (em horas): 4380 horas
+* Data de início: 29 / 08 / 2024
+* Data de término: 28 / 02 / 2025
 
 ## Escopo Preliminar e Premissas
 
@@ -227,6 +216,7 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 |ID    | Descrição do Contra-Escopo          | 
 |------|-------------------------------------|
 |CE-001| Treinamento de modelo de LLM        |
+|CE-002| Pesquisa de viabilidade do mercado. |
 |CE-002| Pesquisa de viabilidade do mercado. |
 
 ### Condições para início do Projeto
