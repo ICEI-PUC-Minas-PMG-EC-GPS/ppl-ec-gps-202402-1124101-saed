@@ -229,6 +229,11 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 |------|--------------------------------------------------|
 |CI-001| Assinatura de contrato de prestação de serviços. |
 |CI-002| Apresentação de garantias definidas no contrato. |
+|CI-003| Licenciamento dos drones |
+|CI-004| Aquisição do hardware |
+|CI-005|  |
+
+
 
 ## Marcos Agendados e Entregas
 
