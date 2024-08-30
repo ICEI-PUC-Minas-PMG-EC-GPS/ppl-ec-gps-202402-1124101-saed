@@ -12,7 +12,7 @@ Com baterias melhores, a ineficiência de subir mais alto que os prédios e faze
 
 * [Davi de Victor Gonçalves Rodrigues](https://github.com/Davi-de-Victor)
 * [João Obregon Gonçalves Fernandes](https://github.com/aluno2)
-* [Rafael de Melo Alves Vilaça]((https://github.com/Rafael06-vila))
+* [Rafael de Melo Alves Vilaça](https://github.com/Rafael06-vila)
 * [Matheus Souza Costa Neiva](https://github.com/aluno4)
 
 ## Professor responsável
