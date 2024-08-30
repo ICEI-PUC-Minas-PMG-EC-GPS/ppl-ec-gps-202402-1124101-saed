@@ -130,7 +130,7 @@
 | Serviços de Rede        |    GPS     |     integrado no drone       |       ------       |       ------      |
 | Hospedagem e Nuvem      |    Banco de dados do aplicativo     |      8760      |       R$1,85       |       R$4800,00      |
 | Software de terceiros   |    Piloto automático      |     ----       |       -----       |       R$2.700,00      |
-| Serviços e treinamento  |    Treinamento para suporte ao drone, manutenção da estção      |    100    |     40     |     R$4.000,00     |
+| Serviços e treinamento  |    Treinamento para suporte ao drone, manutenção da estação      |    100    |     40     |     R$4.000,00     |
 | **Total Geral**         |           |            |              |             |
 
 
