@@ -239,18 +239,15 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 ## Marcos Agendados e Entregas
 
-......  ATUALIZE OS MARCOS AGENDADOS DO PROJETO E AS DATAS PARA ENTREGAS DAS TAREFAS ......
-
-A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos (requisitos).
 
 |ID   | Marco do Projeto                                                  | 
 |-----|-------------------------------------------------------------------|
-|M-1  | Pesquisa e Planejamento Inicial  |
-|M-2  |Desenvolvimento do Protótipo de Estação de Entrega           |
-|M-3  |        Implementação do Sistema de Gestão de Rotas                                                           |
-|M-4  |        Teste de Campo Inicial                                                           |
-|M-5  |         Desenvolvimento de Interface de Monitoramento                                                          |
-|M-6  |        Piloto em Área Urbana Selecionada                                                           |
+|M-1  | Pesquisa e Planejamento Inicial (1º mês) |
+|M-2  |Desenvolvimento do Protótipo de Estação de Entrega (2º mês)         |
+|M-3  |        Implementação do Sistema de Gestão de Rotas      (3º mês)                                                      |
+|M-4  |        Teste de Campo Inicial                       (4º mês)                                     |
+|M-5  |         Desenvolvimento de Interface de Monitoramento        (5º mês)                                                   |
+|M-6  |        Piloto em Área Urbana Selecionada                      (6º mês)                                      |
 
 ```diff
 + Tarefa 02
