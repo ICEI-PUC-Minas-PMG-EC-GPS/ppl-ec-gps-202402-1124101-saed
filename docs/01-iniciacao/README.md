@@ -174,14 +174,18 @@
 
 ### Requisitos Funcionais
 
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 10) ......
-
-A tabela a seguir apresenta os requisitos funcionais do projeto. 
-
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Navegação Autônoma dos Drones | ALTA | 
+|RF-002| Integração com Estações de Entrega   | ALTA |
+|RF-003| Gestão e Otimização de Rotas   | ALTA|
+|RF-004| Monitoramento em Tempo Real    | ALTA |
+|RF-005| Relatório de Missão e Histórico de Entregas   | MÉDIA |
+|RF-006| Gerenciamento de Pacotes  | MÉDIA |
+|RF-007|Notificação ao Cliente | MÉDIA |
+|RF-008| Diagnóstico e Manutenção Preventiva   | MÉDIA |
+|RF-009| Autenticação e Autorização de Operadores   |BAIXA|
+|RF-0010| Suporte a Condições Climáticas Adversas   | BAIXA |
 
 ### Requisitos Não Funcionais
 
@@ -209,9 +213,6 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ### Contra-Escopo
 
-......  ATUALIZE O CONTRA-ESCOPO DO SISTEMA (MÍNIMO 5) ......
-
-A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
 |ID    | Descrição do Contra-Escopo          | 
 |------|-------------------------------------|
@@ -222,10 +223,6 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 |CE-005| Interação com Clientes Finais|
 
 ### Condições para início do Projeto
-
-......  ATUALIZE AS CONDIÇÕES PARA INÍCIO DOS PROJETOS (MÍNIMO 3) ......
-
-A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 |ID    | Descrição de Condições para Início do Projeto    | 
 |------|--------------------------------------------------|
