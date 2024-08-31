@@ -185,7 +185,7 @@
 |RF-007|Notificação ao Cliente | MÉDIA |
 |RF-008| Diagnóstico e Manutenção Preventiva   | MÉDIA |
 |RF-009| Autenticação e Autorização de Operadores   |BAIXA|
-|RF-0010| Suporte a Condições Climáticas Adversas   | BAIXA |
+|RF-010| Suporte a Condições Climáticas Adversas   | BAIXA |
 
 ### Requisitos Não Funcionais
 
