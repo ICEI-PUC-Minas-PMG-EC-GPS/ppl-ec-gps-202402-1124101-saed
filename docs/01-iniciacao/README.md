@@ -199,18 +199,15 @@
 
 ### Restrições
 
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
-
-A tabela a seguir apresenta as restrições do projeto. 
-
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RE-001|Regulamentações de Aviação e Espaço Aéreo | ALTA | 
+|RE-002| Autonomia Limitada das Baterias   | ALTA |
+|RE-003| Conectividade e Dependência de Rede   | MÉDIA |
+|RE-004|Capacidade de Carga dos Drones  | MÉDIA |
+|RE-005| Clima e Condições Meteorológicas  | MÉDIA |
 
 ### Contra-Escopo
-
 
 |ID    | Descrição do Contra-Escopo          | 
 |------|-------------------------------------|
@@ -231,9 +228,7 @@ A tabela a seguir apresenta as restrições do projeto.
 |CI-005| Tecnologia de Drones Compatível |
 |CI-006| Infraestrutura de Estações de Entrega |
 
-
 ## Marcos Agendados e Entregas
-
 
 |ID   | Marco do Projeto                                                  | 
 |-----|-------------------------------------------------------------------|
