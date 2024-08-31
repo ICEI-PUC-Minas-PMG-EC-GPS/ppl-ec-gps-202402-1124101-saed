@@ -215,9 +215,11 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
 |ID    | Descrição do Contra-Escopo          | 
 |------|-------------------------------------|
-|CE-001| Treinamento de modelo de LLM        |
-|CE-002| Pesquisa de viabilidade do mercado. |
-|CE-002| Pesquisa de viabilidade do mercado. |
+|CE-001|   Controle Manual dos Drones    |
+|CE-002| Integração com Sistemas de Tráfego Aéreo |
+|CE-003| Análise de Terreno para Pouso Direto|
+|CE-004| Operação em Ambientes Rurais ou Isolados |
+|CE-005| Interação com Clientes Finais|
 
 ### Condições para início do Projeto
 
@@ -231,8 +233,8 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 |CI-002| Apresentação de garantias definidas no contrato. |
 |CI-003| Licenciamento dos drones |
 |CI-004| Aquisição do hardware |
-|CI-005|  |
-
+|CI-005| Tecnologia de Drones Compatível |
+|CI-006| Infraestrutura de Estações de Entrega |
 
 
 ## Marcos Agendados e Entregas
@@ -243,12 +245,12 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 |ID   | Marco do Projeto                                                  | 
 |-----|-------------------------------------------------------------------|
-|M-1  | Liberação do sistema para cadastro de informações e configuração. |
-|M-2  | Permissão para uso do sistema, por usuários focais.               |
-|M-3  |                                                                   |
-|M-4  |                                                                   |
-|M-5  |                                                                   |
-|M-6  |                                                                   |
+|M-1  | Pesquisa e Planejamento Inicial  |
+|M-2  |Desenvolvimento do Protótipo de Estação de Entrega           |
+|M-3  |        Implementação do Sistema de Gestão de Rotas                                                           |
+|M-4  |        Teste de Campo Inicial                                                           |
+|M-5  |         Desenvolvimento de Interface de Monitoramento                                                          |
+|M-6  |        Piloto em Área Urbana Selecionada                                                           |
 
 ```diff
 + Tarefa 02
