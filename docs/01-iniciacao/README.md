@@ -252,35 +252,19 @@
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+ Para o desenvolvimento do projeto de Entregas Automatizadas por Drone, o grupo adotou uma abordagem baseada em metodologias ágeis, utilizando o framework Scrum como base para organizar o fluxo de trabalho e maximizar a produtividade. Essa metodologia nos permite trabalhar de maneira colaborativa, iterativa e com entregas constantes, garantindo flexibilidade no processo e a capacidade de adaptar-se a mudanças.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+No Scrum, o trabalho é dividido entre os seguintes papéis, que foram adaptados ao nosso projeto:
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
+-Product Owner (PO): Responsável por definir a visão do produto e priorizar as funcionalidades no backlog. Esse papel garante que a equipe está focada nas funcionalidades mais importantes para o sucesso do projeto.
+-Scrum Master: Facilita o processo ágil, removendo impedimentos e garantindo que o time siga as práticas do Scrum. Também é responsável por facilitar as cerimônias do Scrum, como as reuniões diárias (Daily Scrum), a revisão do Sprint (Sprint Review) e a retrospectiva (Sprint Retrospective).
+-Equipe de Desenvolvimento: Composta por todos os membros do grupo, responsáveis pela implementação das funcionalidades definidas no backlog. A equipe trabalha colaborativamente para transformar as tarefas em incrementos funcionais ao final de cada Sprint.
+
 
 ## Ferramentas
-
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-> Todas as ferramentas utilizadas devem ser listadas.
-> Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
-> A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
+.
 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
