@@ -48,7 +48,7 @@
 
 > Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
 
-![Estrutura Analítica do Projeto](images/SAED.jpg)
+![Estrutura Analítica do Projeto](images/saed (2).jpg)
 
 > Softwares recomendados: 
 > * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
