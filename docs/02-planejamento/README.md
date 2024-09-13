@@ -31,17 +31,17 @@
 > Projeto: Sistema Automático de Entrega de Drone - SAED<br/>
 > Objetivo do Projeto: Costrução de um serviço de entrega por drone com o objetivo de aumentar a velocidade de entrega de compras online.
 
-1-Desenvolvimento do Sistema de Navegação Autônoma: Criar e configurar o sistema que permita aos drones navegar autonomamente, assegurando que as rotas sejam seguras e otimizadas para eficiência.
+> 1-Desenvolvimento do Sistema de Navegação Autônoma: Criar e configurar o sistema que permita aos drones navegar autonomamente, assegurando que as rotas sejam seguras e otimizadas para eficiência.
 
-2-Integração com Estações de Entrega: Implementar a comunicação e integração dos drones com as estações de entrega automatizadas, para garantir a entrega precisa e sem necessidade de intervenção manual.
+> 2-Integração com Estações de Entrega: Implementar a comunicação e integração dos drones com as estações de entrega automatizadas, para garantir a entrega precisa e sem necessidade de intervenção manual.
 
-3- Gestão e Otimização de Rotas: Desenvolver um sistema que otimize as rotas dos drones, levando em consideração fatores como clima, trânsito aéreo e eficiência de bateria.
+> 3- Gestão e Otimização de Rotas: Desenvolver um sistema que otimize as rotas dos drones, levando em consideração fatores como clima, trânsito aéreo e eficiência de bateria.
 
-4- Monitoramento em Tempo Real: Estabelecer um sistema que permita o monitoramento em tempo real dos drones em operação, oferecendo visibilidade ao operador e ao cliente.
+> 4- Monitoramento em Tempo Real: Estabelecer um sistema que permita o monitoramento em tempo real dos drones em operação, oferecendo visibilidade ao operador e ao cliente.
 
-5- Gerenciamento de Pacotes e Relatórios: Implementar funcionalidades para a gestão eficiente de pacotes, com geração de relatórios detalhados sobre cada missão e histórico de entregas.
+> 5- Gerenciamento de Pacotes e Relatórios: Implementar funcionalidades para a gestão eficiente de pacotes, com geração de relatórios detalhados sobre cada missão e histórico de entregas.
 
-6- Notificação ao Cliente: Desenvolver um sistema de notificação que informe os clientes sobre o status da entrega, desde a saída do pacote até a chegada ao destino.
+> 6- Notificação ao Cliente: Desenvolver um sistema de notificação que informe os clientes sobre o status da entrega, desde a saída do pacote até a chegada ao destino.
 
 Limites do Projeto:
 > * Controle Manual dos Drones: O projeto não incluirá a implementação de controles manuais para a operação dos drones.
