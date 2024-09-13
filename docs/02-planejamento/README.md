@@ -28,7 +28,7 @@
 
 # Escopo do Projeto
 
-> Projeto: Sistema Automático de Entrega de Drone - SAED\n
+> Projeto: Sistema Automático de Entrega de Drone - SAED<br/>
 > Objetivo do Projeto: Costrução de um serviço de entrega por drone com o objetivo de aumentar a velocidade de entrega de compras online.
 
 1-Desenvolvimento do Sistema de Navegação Autônoma: Criar e configurar o sistema que permita aos drones navegar autonomamente, assegurando que as rotas sejam seguras e otimizadas para eficiência.
