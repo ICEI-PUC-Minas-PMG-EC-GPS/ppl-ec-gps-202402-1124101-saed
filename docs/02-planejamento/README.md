@@ -28,13 +28,53 @@
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Projeto: Sistema Automático de Entrega de Drone - SAED
+Objetivo do Projeto: Costrução de um serviço de entrega por drone com o objetivo de aumentar a velocidade de entrega de compras online.
 
-> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
-> Utilize como referência a documentação existente na [Fase de Iniciação](/docs/01-iniciacao).
+> 1-Desenvolvimento do Sistema de Navegação Autônoma: Criar e configurar o sistema que permita aos drones navegar autonomamente, assegurando que as rotas sejam seguras e otimizadas para eficiência.
+
+> 2-Integração com Estações de Entrega: Implementar a comunicação e integração dos drones com as estações de entrega automatizadas, para garantir a entrega precisa e sem necessidade de intervenção manual.
+
+> 3- Gestão e Otimização de Rotas: Desenvolver um sistema que otimize as rotas dos drones, levando em consideração fatores como clima, trânsito aéreo e eficiência de bateria.
+
+> 4- Monitoramento em Tempo Real: Estabelecer um sistema que permita o monitoramento em tempo real dos drones em operação, oferecendo visibilidade ao operador e ao cliente.
+
+> 5- Gerenciamento de Pacotes e Relatórios: Implementar funcionalidades para a gestão eficiente de pacotes, com geração de relatórios detalhados sobre cada missão e histórico de entregas.
+
+> 6- Notificação ao Cliente: Desenvolver um sistema de notificação que informe os clientes sobre o status da entrega, desde a saída do pacote até a chegada ao destino.
+
+Limites do Projeto:
+> * Controle Manual dos Drones: O projeto não incluirá a implementação de controles manuais para a operação dos drones.
+> * Integração com Sistemas de Tráfego Aéreo: Não será feita a integração com sistemas de controle de tráfego aéreo.
+> * Análise de Terreno para Pouso Direto: O sistema não fará análises detalhadas do terreno para pousos diretos em locais não designados.
+> * Operação em Ambientes Rurais ou Isolados: O sistema será projetado para áreas urbanas e não cobrirá operações em áreas rurais ou isoladas.
+> * Interação Direta com Clientes Finais: O projeto não prevê a interação direta dos drones com os clientes no momento da entrega.
+
+Restrições:
+> * Regulamentações de Aviação e Espaço Aéreo: O projeto deverá estar em conformidade com as regulamentações vigentes para o uso de drones no espaço aéreo.
+> * Autonomia Limitada das Baterias: O projeto deve considerar a autonomia de voo limitada pela capacidade das baterias dos drones.
+> * Conectividade e Dependência de Rede: A operação dos drones dependerá de uma conexão de rede estável para a comunicação e monitoramento em tempo real.
+> * Capacidade de Carga dos Drones: Os drones terão uma capacidade de carga limitada, o que restringirá o tipo de pacotes que podem ser transportados.
+> * Clima e Condições Meteorológicas: As operações poderão ser limitadas em condições climáticas adversas, como ventos fortes e tempestades.
+
+Premissas:
+> * Assinatura de contrato de prestação de serviços.
+> * Apresentação de garantias definidas no contrato.
+> * Licenciamento dos drones junto às autoridades reguladoras.
+> * Aquisição do hardware necessário para os drones e estações de entrega.
+> * Tecnologia de Drones Compatível com os requisitos do projeto.
+> * Infraestrutura adequada para as estações de entrega automatizadas.
+
+Marcos Agendados e Entregas
+
+| **Id. do Marco** | **Entregáveis Previstos** |
+|------------------|---------------------------|
+| **M-1** | Pesquisa e planejamento inicial concluído |
+| **M-2** | Protótipo funcional de estação de entrega desenvolvido |
+| **M-3** | Sistema de gestão de rotas implementado |
+| **M-4** | Testes de campo iniciais realizados com sucesso |
+| **M-5** | Interface de monitoramento funcional desenvolvida |
+| **M-6** | Piloto em área urbana finalizado com coleta de dados |
 
 # Estrutura Analítica do Projeto
 
