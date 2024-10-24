@@ -146,7 +146,7 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 + Tarefa 08:
 + Orçamento do Projeto
 ```
-![](images/Fluxodecaixa.png)
+![Fluxo de caixa](images/Fluxodecaixa.png)
 
 
 
