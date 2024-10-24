@@ -148,6 +148,12 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 ```
 ![Fluxo de caixa](images/Fluxodecaixa.PNG)
 
+![Visão geral do custo de tarefa](images/visaogeral.PNG)
+
+![Visão geral do custo de recursos](images/visaogeral2.PNG)
+
+![Visão geral do recurso](images/visaogeral3.PNG)
+
 
 
 
