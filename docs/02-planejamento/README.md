@@ -254,28 +254,40 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 
 | Ambiente   | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+|Laboratório de Teste	| Espaço para realizar testes de protótipos de hardware e verificar funcionalidades.|
+|Ambiente de Simulação	| Simulação de rotas e condições de voo para verificar desempenho e precisão.|
+|Ambiente de Desenvolvimento	| Local para criação e testes iniciais de software, com acesso a ferramentas.|
+|Sala de Revisão	| Espaço dedicado para revisão de código, documentação e reuniões de qualidade.|
+|Campo de Teste	| Área externa para testes práticos de navegação e desempenho dos drones.|
+|Ambiente de Produção	| Local onde o sistema será implantado e operado para testes finais.|
+
+
+
+
+
 
 ### Equipe de Qualidade
 
 | Nome       | Responsabilidade | 
 |------------|------------------|
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
+\Gerente de Qualidade	| Supervisionar atividades de controle e garantia de qualidade.|
+|Analista de Qualidade	| Verificar conformidade com os padrões e realizar auditorias.|
+|Engenheiro de Testes	| Planejar e executar testes de hardware e software.|
+|Especialista em Segurança	| Avaliar e garantir a segurança do sistema e dos dados.|
+|Analista de Usabilidade	| Avaliar a interface e experiência do usuário.|
+|Auditor de Conformidade	| Realizar revisões e garantir conformidade com regulamentos|
 
 ### Metodologias de Qualidade Utilizadas
 
 | Nome       | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
-|            |             |
+|Six Sigma	|Metodologia para reduzir defeitos e melhorar processos por meio de análise estatística.|
+|PDCA	|Ciclo de Planejar, Fazer, Verificar e Agir para melhoria contínua.|
+|Kaizen	|Abordagem focada em melhorias incrementais e contínuas nos processos.|
+|Teste de Caixa Preta	|Técnica de teste que avalia as funcionalidades sem considerar o código interno.|
+|Análise de Causa Raiz	|Método para identificar a causa principal de problemas e evitar recorrências.|
+|Benchmarking	|Comparação com práticas e padrões de referência para identificar oportunidades de melhoria.|
+|ISO 9001	|Norma internacional para implementar um sistema de gestão da qualidade.|
 
 ```diff
 + Tarefa 09:
