@@ -227,7 +227,10 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 |
 |      Feedback dos Stakeholders      |       Avaliação Pós-Entrega      |       20/01/2025	      |       Gerente de Projeto	      |      Satisfação e aprovação final       |       25/01/2025	        |    Reunião de ajuste conforme feedback               |        Analista de Qualidade	         |       Toda a equipe
         |
-![artefatos](images/aartefatos.PNG)
+
+
+        
+![artefatos](images/artefatos.PNG)
 
 
 
