@@ -210,6 +210,10 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 
 | Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
 |------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
+|      Documento de Requisitos      |       Revisão Técnica	      |       01/11/2024	      |      Gerente de Projeto       |       05/11/2024	      |       Revisão e atualização dos requisitos        |       Analista de Qualidade            |         Gerente de Projeto        |                |
+|            |             |             |             |             |               |                   |                 |                |
+|            |             |             |             |             |               |                   |                 |                |
+|            |             |             |             |             |               |                   |                 |                |
 |            |             |             |             |             |               |                   |                 |                |
 |            |             |             |             |             |               |                   |                 |                |
 |            |             |             |             |             |               |                   |                 |                |
