@@ -239,11 +239,16 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 
 | Nome       | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+|ISO 9001	| Norma de qualidade para garantir processos bem definidos e controle de qualidade.|
+|IEEE 29148	| Padrão para especificação de requisitos de software.|
+|ISO/IEC 25010 | Modelo de qualidade para avaliar atributos de qualidade do software, como usabilidade.|
+|ISO/IEC 27001	| Norma para gestão de segurança da informação.|
+|PMBOK	| Guia de boas práticas para gerenciamento de projetos.|
+|Scrum Guide	| Framework para gerenciar e planejar projetos de desenvolvimento de software.|
+|OSHA 1910	| Padrão de segurança para operações com drones em ambientes industriais.|
+|ANAC RBAC-E94	| Regulação para operação de drones no espaço aéreo brasileiro.|
+|ISO 14001	| Norma para gestão ambiental, garantindo práticas sustentáveis no uso de recursos.|
+
 
 ### Ambiente das Atividades de Qualidade
 
