@@ -183,23 +183,15 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 | Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
 |------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
 |      Documento de Requisitos      |       Revisão Técnica	      |       01/11/2024	      |      Gerente de Projeto       |      Conformidade com o escopo       |       05/11/2024       |       	Revisão e atualização dos requisitos           |        Analista de Qualidade         |      Gerente de Projeto            |
-|      Prototipagem do Drone      |       Teste Funcional      |       10/11/2024	      |       Engenheiro de Hardware	      |      Operação de voo e estabilidade       |        15/11/2024	       |         Ajuste no design ou componentes	          |         Engenheiro de Controle	        |        Engenheiro de Hardware
-        |
-|     Sistema de Navegação Autônoma       |      Teste Unitário	       |      20/11/2024	       |       Desenvolvedor de Software	      |      Precisão de rotas e resposta autônoma       |      25/11/2024	         |          Revisão do algoritmo de navegação         |         Analista de Qualidade	        |        Desenvolvedor de Software        
-|
+|      Prototipagem do Drone      |       Teste Funcional      |       10/11/2024	      |       Engenheiro de Hardware	      |      Operação de voo e estabilidade       |        15/11/2024	       |         Ajuste no design ou componentes	          |         Engenheiro de Controle	        |        Engenheiro de Hardware |
+|     Sistema de Navegação Autônoma       |      Teste Unitário	       |      20/11/2024	       |       Desenvolvedor de Software	      |      Precisão de rotas e resposta autônoma       |      25/11/2024	         |          Revisão do algoritmo de navegação         |         Analista de Qualidade	        |        Desenvolvedor de Software        |
 |     Interface de Monitoramento       |       Teste de Usabilidade	      |      01/12/2024	       |      Designer de UX/UI	       |       Avaliação de experiência do usuário	      |        05/12/2024	       |   Reprojeto de interface                |        Gerente de Projeto         |       Designer de UX/UI        
-|
 |     Relatório de Missão e Histórico de Entregas       |     Revisão Técnica        |     05/12/2024	        |      Gerente de Projeto	       |       Conformidade com especificações	      |        10/12/2024	       |          Revisão e ajuste do relatório         |          Analista de Qualidade       |       Desenvolvedor de Software         |
 |      Algoritmo de Roteamento      |       Teste de Desempenho      |      15/12/2024	       |     Engenheiro de Controle	        |       Tempo e otimização de rotas	      |        20/12/2024	       |      Otimização de código             |       Analista de Qualidade          |         Engenheiro de Controle     
-|
-|      Sistema de Notificação ao Cliente      |      Teste Funcional       |     20/12/2024	        |     Desenvolvedor de Software	        |      Frequência e precisão de notificações	       |      25/12/2024	         |          Revisão do sistema de notificações         |      Analista de Qualidade           |       Desenvolvedor de Software         |
-|      Autenticação e Autorização de Operadores      |      Teste de Segurança       |      01/01/2025	       |       Especialista em Segurança	      |       Controle de acesso e autorização segura	      |               |        05/01/2025	           |        Ajuste em protocolos de segurança         |         Gerente de Projeto	     
-|
+|      Sistema de Notificação ao Cliente      |      Teste Funcional       |     20/12/2024	        |     Desenvolvedor de Software	        |      Frequência e precisão de notificações	       |      25/12/2024	         |          Revisão do sistema de notificações         |      Analista de Qualidade           |       Desenvolvedor de Software        
+|      Autenticação e Autorização de Operadores      |      Teste de Segurança       |      01/01/2025	       |       Especialista em Segurança	      |       Controle de acesso e autorização segura	      |              05/01/2025	           |        Ajuste em protocolos de segurança         |         Gerente de Projeto	 | Especialistas em Segurança    
 |      Documentação Final      |       Revisão de Conformidade      |       10/01/2025	      |       Gerente de Projeto	      |     Completa e alinhada com o escopo	        |        15/01/2025	       |       Revisão e adição de informações            |         Analista de Qualidade        |       Gerente de Projeto      
-|
 |      Feedback dos Stakeholders      |       Avaliação Pós-Entrega      |       20/01/2025	      |       Gerente de Projeto	      |      Satisfação e aprovação final       |       25/01/2025	        |    Reunião de ajuste conforme feedback               |        Analista de Qualidade	         |       Toda a equipe
-        |
-
 
         
 ![artefatos](images/artefatos.PNG)
