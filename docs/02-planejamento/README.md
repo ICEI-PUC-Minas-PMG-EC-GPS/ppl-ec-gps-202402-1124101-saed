@@ -295,19 +295,17 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 
 | Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
 |------------------------------------|--------------|------------------|-------------|-------------|
-| Ata de reunião                     |              |                  |             |             |
-| Declaração de escopo               |              |                  |             |             |
-| WBS                                |              |                  |             |             |
-| Dicionário da WBS                  |              |                  |             |             |
-| Cronograma                         |              |                  |             |             |
-| Lista de Riscos                    |              |                  |             |             |
-| Plano de qualidade                 |              |                  |             |             |
-| Plano de projeto                   |              |                  |             |             |
-| Relatório de Progresso             |              |                  |             |             |
-| Relatório de Aderência ao Processo |              |                  |             |             |
-| Checklists de Inspeção             |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
+| Ata de reunião                     |     Equipe de projeto, gestores         |        Reunião virtual, e-mail	          |      Após cada reunião	       |       Gerente de Projeto      |
+| Declaração de escopo               |      Stakeholders, equipe	        |        E-mail, documento compartilhado	          |      Inicial e revisões principais	       |      Gerente de Projeto       |
+| WBS                                |      Equipe de projeto, clientes	        |          Documento compartilhado, e-mail	        |     Inicial e conforme revisões	        |      Analista de Projetos       |
+| Dicionário da WBS                  |      Equipe de projeto	        |        Documento compartilhado	          |       Conforme revisões do WBS	      |      Analista de Projetos       |
+| Cronograma                         |      Equipe, stakeholders	        |         Documento compartilhado, e-mail	         |      Semanal ou em alterações	       |      Gerente de Planejamento       |
+| Lista de Riscos                    |     Equipe, stakeholders	         |       Reunião virtual, e-mail	           |      Mensal e conforme atualizações	       |       Gerente de Riscos      |
+| Plano de qualidade                 |      Equipe, stakeholders	        |        Documento compartilhado	          |       Inicial e revisões principais	      |      Líder de Qualidade       |
+| Plano de projeto                   |      Stakeholders, equipe	        |        Documento compartilhado, apresentação	          |    Inicial e revisões principais	         |      Gerente de Projeto       |
+| Relatório de Progresso             |       Stakeholders, gestores	       |        Reunião virtual, e-mail	          |      Quinzenal	       |       Gerente de Projeto    |
+| Relatório de Aderência ao Processo |      Equipe de qualidade, gestores	        |         Documento compartilhado	         |       Mensal ou em auditorias	      |     Líder de Qualidade        |
+| Checklists de Inspeção             |       Equipe de testes, gestores	       |         Documento compartilhado	         |      Após cada inspeção	       |      Engenheiro de Qualidade       |
 |                                    |              |                  |             |             |
 
 > Legenda:
