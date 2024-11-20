@@ -308,34 +308,32 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 | Checklists de Inspeção             |       Equipe de testes, gestores	       |         Documento compartilhado	         |      Após cada inspeção	       |      Engenheiro de Qualidade       |
 |                                    |              |                  |             |             |
 
-> Legenda:
-> - Público: a quem se destina a comunicação.
-> - Método de Comunicação: e_mail, reunião presencial, reunião virtual, etc.
-> - Freqüência: diária, semanal, quinzenal, mensal, etc.
-> - Responsável: pessoa responsável pela comunicação.
-
 ### Plano de Gerência de Comunicação
 
-> Indique:
-> - Ferramentas utilizadas no projeto - adicionar link de acesso às ferramentas
-> - Papéis: responsáveis pelas correspondentes no projeto
-> - Princípios gerais: indica quais princípios serão adotados no plano de comunicação, como clareza, objetividade, impessoalidade, imparcialidade e cordialidade. Detalhar.
->
-> Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
-
 - Ferramentas utilizadas:
-- - [Ferramenta 01](https://pucminas.br)
-  - [Ferramenta 02](https://pucminas.br)
-  - [Ferramenta 03](https://pucminas.br)
+- - Microsoft Teams
+  - GitHub Projects
+  - Google Drive
+  - Email
+  - Whatsapp
 - Papéis:
-- - ...
-  - ...
-  - ...
+- - Gerente de Projeto
+  - Analista de Projetos
+  - Líder de Qualidade
+  - Engenheiro de Software
+  - Engenheiro de Hardware
+  - Especialista em Testes
 - Princípios gerais
-- - ...
-  - ...
-  - ...
-  - ...
+- - Clareza: Toda comunicação deve ser apresentada de forma clara, evitando ambiguidades.
+  - Objetividade: Mensagens devem ser diretas e focadas no objetivo principal.
+  - Impessoalidade: A comunicação será centrada no trabalho e não em questões pessoais.
+  - Imparcialidade: Informações e decisões serão tratadas com neutralidade e justiça.
+  - Cordialidade: Respeito e empatia serão aplicados em todas as interações da equipe.
+- Plano de Gerência de Configuração
+- - Ferramenta Utilizada: O GitHub será usado para controle e versionamento do código e artefatos do projeto.
+  - Controle de Versões: Cada alteração será registrada em um branch específico, seguido por uma revisão antes de ser incorporada ao branch principal.
+  - Distribuição de Versões: A entrega de versões será documentada e distribuída através do GitHub com tags de versão claras (v1.0, v2.0, etc.).
+  - Controle de Responsabilidades: Cada integrante será responsável por sua parte no desenvolvimento e deverá registrar as alterações realizadas com descrições detalhadas no sistema de controle de versionamento.
 
 ```diff
 + Tarefa 11:
