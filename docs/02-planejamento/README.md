@@ -347,24 +347,10 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 
 ## Plano de Riscos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
-> O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que podem surgir ao longo do projeto. 
-> Este documento estratégico oferece uma visão global dos riscos, categorizando-os e delineando estratégias para lidar com cada uma das possíveis adversidades. 
-> Inicialmente, é realizada a identificação detalhada dos riscos, abrangendo desde ameaças imprevistas até oportunidades que podem ser exploradas. 
-> Uma vez catalogados, os riscos são avaliados quanto à sua probabilidade de ocorrência e impacto, permitindo a priorização e foco em áreas críticas.
->
-> O plano de riscos não apenas destaca os perigos em potencial, mas também estabelece respostas e estratégias de contingência. 
-> Isso inclui a definição de ações preventivas para mitigar riscos antes que se materializem, bem como estratégias de mitigação para minimizar seu impacto se ocorrerem. 
-> Além disso, a identificação de pontos de monitoramento contínuo ao longo do projeto permite uma resposta ágil às mudanças nas condições do ambiente.
->
-> Você pode utilizar como referência o seguinte documento:
-- [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.xls)
 
 | Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
 |---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-|                     |                    |               |               |                                      |                                     |
+|        Clima (Chuva)	             |                    |               |               |                                      |                                     |
 |                     |                    |               |               |                                      |                                     |
 |                     |                    |               |               |                                      |                                     |
 |                     |                    |               |               |                                      |                                     |
@@ -375,25 +361,30 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 |                     |                    |               |               |                                      |                                     |
 |                     |                    |               |               |                                      |                                     |
 
-> Indique:
-> Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*
-> Descrição do Risco: *ex.: Cliente não aparenta ter muito interesse no projeto*
-> Impacto: *Baixo / Médio / Alto*
-> Risco: *Baixo / Médio / Alto*
-> Medidas de Prevenção: *Medidas que devem ser adotadas para evitar que o risco se concretize*
-> Medidas de Contingência: *Medidas que devem ser adotadas caso o risco se concretize*
->
-> *Obs.: Para determinar o risco considere a seguinte combinação entre Probabilidade e Impacto:
+
 
 | Probabilidade | Impacto       | Risco         |
 |---------------|---------------|---------------|
-| Baixo         | Baixo         | Baixo         |
+|	Médio|	Alto|	Alto|
+|	Baixo|	Alto|	Alto|
+|	Médio|	Médio	|Médio|
+|	Médio|	Alto	|Alto|
+|	Baixo	|Médio	|Médio|
+|	Médio|	Médio	|Médio|
+ | Baixo|	Baixo	|Baixo|
+|	Médio	|Alto	|Alto|
+|	Baixo	|Alto	|Alto|
+|	Médio|	Médio	|Médio|
+
+
+|---------------|---------------|---------------|
+| Médio        | Baixo         | Baixo         |
+|Baixo  | Médio         | Médio         |
+|Médio       | Alto          | Alto          |
 | Médio         | Médio         | Médio         |
-| Alto          | Alto          | Alto          |
-| Baixo         | Médio         | Médio         |
-| Médio         | Baixo         | Médio         |
-| Baixo         | Alto          | Médio         |
-| Alto          | Baixo         | Médio         |
+| Baixo         | Baixo         | Médio         |
+| Médio         | Alto          | Médio         |
+| Baixo        | Baixo         | Médio         |
 | Médio         | Alto          | Alto          |
 | Alto          | Médio         | Alto          |
 
