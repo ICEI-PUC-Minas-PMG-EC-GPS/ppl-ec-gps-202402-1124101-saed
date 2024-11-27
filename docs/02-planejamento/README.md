@@ -350,8 +350,13 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 
 | Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
 |---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
+
+
+
 ![Plano de Riscos 1](images/tabela1.png)
 ![Plano de riscos 2](images/tabela2.png)
+
+
 
 
 | Probabilidade | Impacto       | Risco         |
