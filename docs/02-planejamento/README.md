@@ -350,16 +350,7 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 
 | Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
 |---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-|        Clima (Chuva)	             |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
+
 
 
 
@@ -371,22 +362,12 @@ https://docs.google.com/document/d/1Mx5rktPTTqeMiJGThjkNq2hLHR2mgfwjywURcFLaSUQ/
 |	Médio|	Alto	|Alto|
 |	Baixo	|Médio	|Médio|
 |	Médio|	Médio	|Médio|
- | Baixo|	Baixo	|Baixo|
+| Baixo|	Baixo	|Baixo|
 |	Médio	|Alto	|Alto|
 |	Baixo	|Alto	|Alto|
 |	Médio|	Médio	|Médio|
 
 
-|---------------|---------------|---------------|
-| Médio        | Baixo         | Baixo         |
-|Baixo  | Médio         | Médio         |
-|Médio       | Alto          | Alto          |
-| Médio         | Médio         | Médio         |
-| Baixo         | Baixo         | Médio         |
-| Médio         | Alto          | Médio         |
-| Baixo        | Baixo         | Médio         |
-| Médio         | Alto          | Alto          |
-| Alto          | Médio         | Alto          |
 
 
 ```diff
