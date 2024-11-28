@@ -19,6 +19,7 @@
 + Tarefa 13:
 + Encerramento do Projeto
 ```
+- [Encerramento do projeto](artefatos/encerramento.docx)
 
 # Encerramento do Projeto
 
