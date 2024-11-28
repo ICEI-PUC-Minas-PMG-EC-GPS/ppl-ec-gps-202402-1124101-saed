@@ -23,7 +23,7 @@
 
 # Encerramento do Projeto
 
-- [Encerramento](docs/05-encerramento/Template encerramento projeto.pdf)
+- [Encerramento](docs/05-encerramento/encerramento.docx)
 
 > O Termo de Encerramento descreve uma a conclusão formal das atividades e entregas planejadas. 
 > Este documento revisa o escopo do projeto em relação ao que foi realmente entregue, documenta o sucesso ou as variações em relação aos objetivos iniciais, e destaca quaisquer pendências ou recomendações para futuros projetos similares. 
