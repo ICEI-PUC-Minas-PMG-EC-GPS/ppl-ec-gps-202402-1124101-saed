@@ -25,19 +25,17 @@
 
 - [Encerramento](docs/05-encerramento/encerramento.docx)
 
-> O Termo de Encerramento descreve uma a conclusão formal das atividades e entregas planejadas. 
-> Este documento revisa o escopo do projeto em relação ao que foi realmente entregue, documenta o sucesso ou as variações em relação aos objetivos iniciais, e destaca quaisquer pendências ou recomendações para futuros projetos similares. 
-> O Termo de Encerramento também inclui a formalização da aceitação do cliente, a transferência de responsabilidades e ativos, bem como a liberação de recursos da equipe do projeto. 
-
 
 # Lições Aprendidas 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A identificação e documentação de lições aprendidas ao longo deste projeto desempenharam um papel crucial no aprimoramento das práticas de desenvolvimento e gerenciamento. Refletir sobre os desafios e sucessos enfrentados permitiu entender os pontos fortes do projeto e identificar oportunidades de melhoria. Abaixo estão as principais lições aprendidas:
 
-> A identificação e documentação de lições aprendidas contribuem significativamente para a melhoria contínua e o aprimoramento das práticas organizacionais. 
-> Este processo envolve a reflexão sistemática sobre os sucessos e desafios enfrentados durante a execução do projeto, analisando o que funcionou bem e o que poderia ser melhorado. 
-> A documentação dessas lições aprendidas abrange não apenas os aspectos técnicos, mas também os relacionados ao gerenciamento de equipes, comunicação, riscos, entre outros. 
-> Ao compartilhar essas experiências, as organizações têm a oportunidade de evitar a repetição de erros, replicar práticas bem-sucedidas e fortalecer a capacidade de gerenciamento de projetos ao longo do tempo. 
+Importância de Testes Iterativos: Realizar ciclos contínuos de testes foi essencial para identificar falhas no hardware dos drones e corrigir problemas antes de comprometer as entregas reais.
+Gerenciamento de Comunicação: A clareza e a objetividade na comunicação entre os membros da equipe e stakeholders minimizaram conflitos e garantiram alinhamento durante todo o projeto.
+Flexibilidade no Cronograma: Ajustes pontuais no planejamento ajudaram a acomodar imprevistos, como atrasos em licenças e validações técnicas, sem impactar negativamente os prazos finais.
+Capacitação Técnica: Investir no treinamento da equipe aumentou a eficiência no desenvolvimento de algoritmos e no entendimento de regulamentos aeronáuticos.
+Adaptação a Variáveis Externas: Incorporar fatores como condições climáticas e limitações de infraestrutura local no design dos sistemas garantiu a funcionalidade em ambientes diversos.
+A análise das lições aprendidas reforça a importância de adotar uma abordagem estruturada para capturar essas informações e utilizá-las em futuros projetos, promovendo a melhoria contínua.
 
 # Auto-avaliação
 
