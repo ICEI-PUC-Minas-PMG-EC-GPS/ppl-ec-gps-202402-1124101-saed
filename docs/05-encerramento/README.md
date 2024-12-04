@@ -23,7 +23,7 @@
 
 # Encerramento do Projeto
 
-![Encerramento](images/encerramento(1).docx)
+![Encerramento](images/encerramento.pdf)
 
 # Lições Aprendidas 
 
