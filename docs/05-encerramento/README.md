@@ -23,9 +23,9 @@
 
 # Encerramento do Projeto
 
-![Encerramento](encerramento_page-0001.jpg)
+![Encerramento](image/encerramento_page-0001.jpg)
 
-![Encerramento](encerramento_page-0002.jpg)
+![Encerramento](image/encerramento_page-0002.jpg)
 
 # Lições Aprendidas 
 
