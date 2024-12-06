@@ -29,6 +29,6 @@ Fases do Gerenciamento do Projeto:
 5. [Encerramento](docs/05-encerramento)
 
 ## Apresentação do Trabalho
-
+--Clicar na imagem para ir para o vídeo--
 [![Imagem do Trabalho](images/drone.jpg)](https://youtu.be/6WZIkjaWgng?si=H9VlEHoNynjoUTKF)
 
