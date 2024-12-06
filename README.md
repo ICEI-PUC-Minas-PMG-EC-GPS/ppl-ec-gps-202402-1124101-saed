@@ -30,5 +30,5 @@ Fases do Gerenciamento do Projeto:
 
 ## Apresentação do Trabalho
 
-[![Imagem do Trabalho](images/drone.jpg)]([https://www.youtube.com/watch?v=unq_cZ6NOwk](https://www.youtube.com/watch?v=6WZIkjaWgng))
+[![Imagem do Trabalho](images/drone.jpg)](https://www.youtube.com/watch?v=6WZIkjaWgng)
 
